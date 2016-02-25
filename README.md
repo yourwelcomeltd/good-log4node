@@ -1,7 +1,5 @@
 # good-log4node
 
-The code here is basically taken from [good-Log4Node][3], replacing references to Log4Node with log4node.
-
 A [hapi][0] [good-reporter][1] to [log4node][2] logging adapter.
 
 ## Installation
